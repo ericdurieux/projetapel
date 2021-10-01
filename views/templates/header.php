@@ -121,6 +121,7 @@
                         <li class="menu-item menu-item-type-post_type menu-item-object"><a href="#">Magazines</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object"><a href="#">Liens externes</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object"><a href="#">Partenaires</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object"><a href="../controllers/connexion_controller.php">connexion</a></li>
                     </ul>
                 </nav>
                 <a href="mailto:apel-somme@apel80.com" class="email">apel-somme@apel80.com</a></p>
